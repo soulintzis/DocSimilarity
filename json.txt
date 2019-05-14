@@ -1,0 +1,4 @@
+In computing, JavaScript Object Notation (JSON) is an open-standard file format that uses human-readable text to
+transmit data objects consisting of attribute–value pairs and array data types (or any other serializable value).
+It is a very common data format used for asynchronous browser–server communication, including as a replacement
+for XML in some AJAX-style systems hello.
